@@ -14,10 +14,10 @@ function TopButton({ setQuery }) {
       id: 3,
       title: "Tokyo",
     },
-    {
-      id: 4,
-      title: "Toronto",
-    },
+    // {
+    //   id: 4,
+    //   title: "Toronto",
+    // },
     // {
     //     id:5,
     //     title: "Paris"
